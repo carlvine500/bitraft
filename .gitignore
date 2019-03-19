@@ -1,2 +1,7 @@
-kvnode-server*
-data*
+*~*
+*.bak
+
+/coverage.txt
+/bitraft
+/tmp
+/dist
