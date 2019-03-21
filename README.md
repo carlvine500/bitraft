@@ -1,5 +1,8 @@
 # bitraft
 
+[![Build Status](https://cloud.drone.io/api/badges/prologic/bitraft/status.svg)](https://cloud.drone.io/prologic/bitraft)
+[![Go Report Card](https://goreportcard.com/badge/prologic/bitraft)](https://goreportcard.com/report/prologic/bitraft)
+
 A [Bitcask](https://github.com/prologic/bitcask) Distributed Key/Value store
 using [Raft](https://github.com/hashicorp/raft) for concensus with a
 [Redis](https://redis.org) compatible API written in [Go](https://golang.org).
